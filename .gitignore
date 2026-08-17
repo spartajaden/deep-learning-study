@@ -1,0 +1,41 @@
+# Python virtual environments
+.venv/
+.venv-*/
+.venv*/
+venv/
+env/
+
+# Python caches and build artifacts
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+build/
+dist/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local troubleshooting artifacts
+_cache.txt
+_check.ps1
+_check_result.txt
+_conda.txt
+_conda_clean.log
+_conda_create.log
+_diag.txt
+_procs.txt
+_prog.txt
+_py312_check.txt
+_py312_install.log
+_pyversions.txt
+_tf_check.txt
+_tf_install.log
+_uv_check.txt
+_uv_install.log
+_venv_tf.log
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
