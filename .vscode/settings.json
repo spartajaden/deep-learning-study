@@ -1,7 +1,8 @@
 {
-  "python.defaultInterpreterPath": "${workspaceFolder}/.venv312/Scripts/python.exe",
+  "python.defaultInterpreterPath": "${workspaceFolder}/.venv-tf/Scripts/python.exe",
   "python-envs.workspaceSearchPaths": [
-    ".venv312"
+    ".venv-tf",
+    ".venv"
   ],
   "python-envs.terminal.autoActivationType": "command",
   "python-envs.defaultEnvManager": "ms-python.python:system"
